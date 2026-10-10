@@ -91,9 +91,16 @@ The notebook generates visualizations during exploratory analysis and data proce
 
 ### Customer Segmentation Results
 
+The following visualizations compare the distribution of
+customers across the four clusters with their contribution
+to total retained positive purchasing value.
+
 ![Customer distribution by cluster](outputs/figures/customer_distribution_by_cluster.png)
 
 ![Customer distribution versus purchasing value](outputs/figures/customer_vs_monetary_share.png)
+
+Cluster 3 represents 16.55% of customers but accounts for 64.73% of retained positive purchasing value. 
+In contrast, Cluster 2 represents 35.71% of customers but contributes only 6.28% of purchasing value.  
 
 ## Repository Contents
 
