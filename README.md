@@ -84,6 +84,10 @@ The notebook generates visualizations during exploratory analysis and data proce
 
 ![Log-transformed RFM feature distributions](outputs/figures/rfm_log_transformed_distributions.png)
 
+### K-Means Cluster Evaluation
+
+![K-Means elbow method and silhouette scores](outputs/figures/kmeans_cluster_evaluation.png)
+
 Additional clustering and evaluation visualizations will be added as the analysis progresses.
 
 ## Repository Contents
