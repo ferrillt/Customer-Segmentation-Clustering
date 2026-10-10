@@ -152,7 +152,7 @@ The resulting customer segments may support business decisions involving:
 - Identification of frequent and high-value customers
 - Development of customer engagement strategies
 
-Recommendations will be developed based on the characteristics of the identified customer segments.
+The analysis identified four customer segments with different purchasing patterns. Potential business applications include encouraging repeat purchases among recent low-spend customers, increasing engagement among moderate-value customers, evaluating re-engagement opportunities for inactive customers, and prioritizing retention efforts for high-value active customers.  
 
 ## Limitations
 
@@ -164,7 +164,7 @@ K-Means clustering identifies groups based on similarities in the selected featu
 
 ## Project Status
 
-Data collection, cleaning, exploratory analysis, RFM feature engineering, preprocessing, K-Means clustering, cluster evaluation, and business interpretation are complete. Final conclusions and documentation are in progress.  
+Data collection, cleaning, exploratory analysis, RFM feature engineering, preprocessing, K-Means clustering, cluster evaluation, business interpretation, and final conclusions are complete.    
 
 ## Portfolio
 
