@@ -11,7 +11,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 1. Download the Online Retail dataset from UCI.
 2. Save the original ZIP archive in this directory.
-3. Rename the ZIP file to `online_retail.zip`.
+3. Rename the ZIP file to `online+retail.zip`.
 4. Run the Jupyter notebook from the `notebooks` directory.
 
 ## Data Availability
