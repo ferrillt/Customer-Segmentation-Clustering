@@ -88,6 +88,12 @@ The notebook generates visualizations during exploratory analysis and data proce
 
 ![K-Means elbow method and silhouette scores](outputs/figures/kmeans_cluster_evaluation.png)
 
+### Customer Segmentation Results
+
+![Customer distribution by cluster](outputs/figures/customer_distribution_by_cluster.png)
+
+![Customer distribution versus purchasing value](outputs/figures/customer_vs_monetary_share.png)
+
 Additional clustering and evaluation visualizations will be added as the analysis progresses.
 
 ## Repository Contents
@@ -100,6 +106,8 @@ Customer-Segmentation-Clustering/
 │   └── Customer_Segmentation_Clustering.ipynb
 ├── outputs/
 │   └── figures/
+│       ├── customer_distribution_by_cluster.png
+│       ├── customer_vs_monetary_share.png
 │       ├── transaction_values_99th_percentile.png
 │       ├── transaction_values_log_transformed.png
 │       ├── rfm_original_distributions.png
@@ -133,7 +141,7 @@ K-Means models containing 2 through 10 clusters were evaluated using inertia and
 
 The two-cluster model achieved the highest sampled silhouette score (0.4252), indicating the strongest separation among the configurations tested. The elbow method showed decreasing inertia as additional clusters were introduced but did not identify a single definitive cluster count.
 
-Four clusters were selected, with a silhouette score of 0.3292, and to include the final customer profile table.
+Four clusters were selected for the final customer segmentation because they provided more detailed and potentially actionable distinctions in purchasing behavior. The selected model achieved a sampled silhouette score of 0.3292, compared with 0.4252 for the two-cluster model.
 
 Final cluster profiles and business recommendations will be added after the evaluation is complete.
 
