@@ -31,3 +31,6 @@ Visualizations are displayed within the notebook and saved as PNG files in `outp
 
 The analysis progresses from data understanding and cleaning through exploratory analysis, RFM feature engineering, clustering, and business interpretation.
 
+### Generated Outputs
+The notebook saves PNG figures in the `outputs/figures/`.
+
