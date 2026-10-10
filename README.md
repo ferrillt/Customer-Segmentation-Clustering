@@ -94,8 +94,6 @@ The notebook generates visualizations during exploratory analysis and data proce
 
 ![Customer distribution versus purchasing value](outputs/figures/customer_vs_monetary_share.png)
 
-Additional clustering and evaluation visualizations will be added as the analysis progresses.
-
 ## Repository Contents
 
 ```text
@@ -143,7 +141,7 @@ The two-cluster model achieved the highest sampled silhouette score (0.4252), in
 
 Four clusters were selected for the final customer segmentation because they provided more detailed and potentially actionable distinctions in purchasing behavior. The selected model achieved a sampled silhouette score of 0.3292, compared with 0.4252 for the two-cluster model.
 
-Final cluster profiles and business recommendations will be added after the evaluation is complete.
+The final four-cluster model assigned 4,338 customers to segments based on differences in purchase recency, frequency, and monetary value. The resulting profiles were used to identify potential customer engagement and retention strategies.  
 
 ## Business Applications
 
@@ -166,9 +164,7 @@ K-Means clustering identifies groups based on similarities in the selected featu
 
 ## Project Status
 
-Data collection, cleaning, exploratory analysis, RFM feature engineering, preprocessing, K-Means clustering, and cluster evaluation, are complete.
-
-Business interpretation, and final conclusions are in progress.
+Data collection, cleaning, exploratory analysis, RFM feature engineering, preprocessing, K-Means clustering, cluster evaluation, and business interpretation are complete. Final conclusions and documentation are in progress.  
 
 ## Portfolio
 
