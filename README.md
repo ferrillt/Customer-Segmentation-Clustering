@@ -129,9 +129,13 @@ Generated figures are saved automatically to `outputs/figures/`.
 
 ## Clustering Results
 
-*This section will be completed after K-Means clustering and cluster evaluation.*
+K-Means models containing 2 through 10 clusters were evaluated using inertia and silhouette scores.
 
-Planned results include the selected number of clusters, clustering evaluation metrics, customer segment profiles, and visualizations of the identified groups.
+The two-cluster model achieved the highest sampled silhouette score (0.4252), indicating the strongest separation among the configurations tested. The elbow method showed decreasing inertia as additional clusters were introduced but did not identify a single definitive cluster count.
+
+The next stage will compare two-, three-, and four-cluster solutions to evaluate differences in customer purchasing behavior and determine whether additional customer segments provide meaningful business insights.
+
+Final cluster profiles and business recommendations will be added after the evaluation is complete.
 
 ## Business Applications
 
