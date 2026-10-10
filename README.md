@@ -27,7 +27,7 @@ The original dataset is not included in this repository. Instructions for obtain
 The analysis is organized into the following stages:
 
 1. **Data Collection:** Load the original Excel workbook directly from the downloaded ZIP archive.
-2. **Data Understanding:** Examine dataset structure, missing values, duplicates, transaction characteristics, and potential data quality issues.
+2. **Data Understanding:** Examine dataset structure, missing values, duplicates, transaction characteristics, and potential data quality issues. 
 3. **Data Cleaning:** Remove records without customer identifiers, cancellation transactions, nonpositive quantities or prices, and exact duplicate records.
 4. **Exploratory Data Analysis:** Examine transaction values and customer purchasing patterns.
 5. **Feature Engineering:** Aggregate transaction records into customer-level Recency, Frequency, and Monetary measures.
@@ -35,6 +35,7 @@ The analysis is organized into the following stages:
 7. **K-Means Clustering:** Evaluate alternative numbers of clusters and identify customer groups.
 8. **Cluster Evaluation:** Assess clustering quality and examine customer characteristics within each segment.
 9. **Business Interpretation:** Interpret customer segments and discuss potential business applications.
+10. **Conclusions and Future Improvements:** Identify Key Findings, Limitations, and Future Improvements.  
 
 ## Data Preparation and Feature Engineering
 
@@ -66,7 +67,7 @@ Logarithmic transformations were applied to reduce skewness before standardizati
 
 The transformed features were standardized using `StandardScaler` to prepare them for K-Means clustering.
 
-Original RFM values are retained for subsequent business interpretation.
+Original RFM values were retained for business interpretation.
 
 ## Visualizations
 
