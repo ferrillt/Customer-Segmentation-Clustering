@@ -103,7 +103,8 @@ Customer-Segmentation-Clustering/
 │       ├── transaction_values_99th_percentile.png
 │       ├── transaction_values_log_transformed.png
 │       ├── rfm_original_distributions.png
-│       └── rfm_log_transformed_distributions.png
+│       ├── rfm_log_transformed_distributions.png
+│       └── kmeans_cluster_evaluation.png
 ├── .gitignore
 ├── README.md
 └── requirements.txt
