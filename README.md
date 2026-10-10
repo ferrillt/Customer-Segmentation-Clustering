@@ -1,5 +1,7 @@
 # Customer Segmentation Using Clustering
 
+**Jupyter Notebook:** [Customer Segmentation Clustering Analysis](notebooks/Customer_Segmentation_Clustering.ipynb)
+
 ## Project Overview
 
 This project examines customer purchasing behavior using transaction data from the UCI Online Retail dataset. The objective is to identify groups of customers with similar purchasing characteristics using Recency, Frequency, and Monetary (RFM) analysis and K-Means clustering.
