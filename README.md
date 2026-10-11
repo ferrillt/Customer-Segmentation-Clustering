@@ -162,11 +162,7 @@ The analysis uses historical transactions from a single online retailer and may 
 
 Records without customer identifiers and cancellation transactions were excluded, and exact duplicate rows were removed. These decisions affect the purchasing activity represented in the RFM features.
 
-K-Means clustering identifies groups based on similarities in the selected features. The resulting segments should be evaluated for both statistical quality and business usefulness.
-
-## Project Status
-
-Data collection, cleaning, exploratory analysis, RFM feature engineering, preprocessing, K-Means clustering, cluster evaluation, business interpretation, and final conclusions are complete.    
+K-Means clustering identifies groups based on similarities in the selected features. The resulting segments should be evaluated for both statistical quality and business usefulness. 
 
 ## Portfolio
 
