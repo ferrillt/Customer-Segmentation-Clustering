@@ -102,6 +102,12 @@ to total retained positive purchasing value.
 Cluster 3 represents 16.55% of customers but accounts for 64.73% of retained positive purchasing value. 
 In contrast, Cluster 2 represents 35.71% of customers but contributes only 6.28% of purchasing value.  
 
+#### Customer Segment RFM Profiles  
+
+The following visualization compares median recency, frequency, and retained positive purchasing value across the four clusters.  
+
+![Customer Segment RFM Profiles](outputs/figures/cluster_rfm_profiles.png)  
+
 ## Repository Contents
 
 ```text
@@ -112,7 +118,7 @@ Customer-Segmentation-Clustering/
 │   └── Customer_Segmentation_Clustering.ipynb
 ├── outputs/
 │   └── figures/
-│       └── [9 visualization files]
+│       └── [8 visualization files]
 ├── .gitignore
 ├── README.md
 └── requirements.txt
