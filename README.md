@@ -112,7 +112,7 @@ Customer-Segmentation-Clustering/
 │   └── Customer_Segmentation_Clustering.ipynb
 ├── outputs/
 │   └── figures/
-│       └── [7 visualization files]
+│       └── [9 visualization files]
 ├── .gitignore
 ├── README.md
 └── requirements.txt
