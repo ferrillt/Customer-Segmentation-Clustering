@@ -3,3 +3,4 @@ data/*.xlsx
 data/*.xls
 .ipynb_checkpoints/
 __pycache__/
+data/online+retail.zip
