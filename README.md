@@ -75,19 +75,19 @@ The notebook generates visualizations during exploratory analysis and data proce
 
 ### Transaction Value Distributions
 
-![Transaction values through the 99th percentile](outputs/figures/transaction_values_99th_percentile.png)
+![Transaction values through the 99th percentile](images/transaction_values_99th_percentile.png)
 
-![Log-transformed transaction values](outputs/figures/transaction_values_log_transformed.png)
+![Log-transformed transaction values](images/transaction_values_log_transformed.png)
 
 ### Customer-Level RFM Distributions
 
-![Original RFM feature distributions](outputs/figures/rfm_original_distributions.png)
+![Original RFM feature distributions](images/rfm_original_distributions.png)
 
-![Log-transformed RFM feature distributions](outputs/figures/rfm_log_transformed_distributions.png)
+![Log-transformed RFM feature distributions](images/rfm_log_transformed_distributions.png)
 
 ### K-Means Cluster Evaluation
 
-![K-Means elbow method and silhouette scores](outputs/figures/kmeans_cluster_evaluation.png)
+![K-Means elbow method and silhouette scores](images/kmeans_cluster_evaluation.png)
 
 ### Customer Segmentation Results
 
@@ -99,11 +99,11 @@ to total retained positive purchasing value.
 
 The following visualization compares median recency, frequency, and retained positive purchasing value across the four clusters.  
 
-![Customer Segment RFM Profiles](outputs/figures/cluster_rfm_profiles.png)
+![Customer Segment RFM Profiles](images/cluster_rfm_profiles.png)
 
-![Customer distribution by cluster](outputs/figures/customer_distribution_by_cluster.png)
+![Customer distribution by cluster](images/customer_distribution_by_cluster.png)
 
-![Customer distribution versus purchasing value](outputs/figures/customer_vs_monetary_share.png)
+![Customer distribution versus purchasing value](images/customer_vs_monetary_share.png)
 
 Cluster 3 represents 16.55% of customers but accounts for 64.73% of retained positive purchasing value. 
 In contrast, Cluster 2 represents 35.71% of customers but contributes only 6.28% of purchasing value.   
