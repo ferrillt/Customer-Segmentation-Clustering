@@ -71,7 +71,7 @@ Original RFM values were retained for business interpretation.
 
 ## Visualizations
 
-The notebook generates visualizations during exploratory analysis and data processing. Figures are displayed within the notebook and saved as PNG files in `outputs/figures/`.
+The notebook generates visualizations during exploratory analysis and data processing. Figures are displayed within the notebook and saved as PNG files in `images/`.
 
 ### Transaction Value Distributions
 
@@ -140,7 +140,7 @@ The original dataset is downloaded separately and stored locally in `data/online
 
 The notebook loads the Excel workbook directly from the ZIP archive without requiring manual extraction.
 
-Generated figures are saved automatically to `outputs/figures/`.
+Generated figures are saved automatically to `images/`.
 
 ## Clustering Results
 
