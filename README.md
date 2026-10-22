@@ -114,10 +114,12 @@ In contrast, Cluster 2 represents 35.71% of customers but contributes only 6.28%
 Customer-Segmentation-Clustering/
 ├── data/
 │   └── README.md
-├── notebooks/
-│   └── Customer_Segmentation_Clustering.ipynb
 ├── images/
 │   └── [8 visualization files]
+├── notebooks/
+│   └── Customer_Segmentation_Clustering.ipynb
+├── presentation/
+│   └── Customer_Segmentation_Presentation.pdf
 ├── .gitignore
 ├── README.md
 └── requirements.txt
