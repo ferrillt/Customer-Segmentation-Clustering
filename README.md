@@ -1,6 +1,6 @@
 # Customer Segmentation Using Clustering
 
-**Jupyter Notebook:** [Customer Segmentation Clustering Analysis](notebooks/Customer_Segmentation_Clustering.ipynb)
+**Jupyter Notebook:** [Customer Segmentation Clustering Analysis](notebook/Customer_Segmentation_Clustering.ipynb)
 
 ## Project Overview
 
@@ -116,7 +116,7 @@ Customer-Segmentation-Clustering/
 │   └── README.md
 ├── images/
 │   └── [8 visualization files]
-├── notebooks/
+├── notebook/
 │   └── Customer_Segmentation_Clustering.ipynb
 ├── presentation/
 │   └── Customer_Segmentation_Presentation.pdf
@@ -136,7 +136,7 @@ The original dataset is downloaded separately and stored locally in `data/online
 
 3. Download the Online Retail dataset from the UCI Machine Learning Repository.
 4. Place the original ZIP archive in the `data/` directory and name it `online+retail.zip`.
-5. Open the notebook in Jupyter and execute it from the `notebooks/` directory, running the cells sequentially.
+5. Open the notebook in Jupyter and execute it from the `notebook/` directory, running the cells sequentially.
 
 The notebook loads the Excel workbook directly from the ZIP archive without requiring manual extraction.
 
