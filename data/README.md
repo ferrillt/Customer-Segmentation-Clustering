@@ -9,7 +9,7 @@ This project uses the Online Retail dataset from the UCI Machine Learning Reposi
 1. Download the Online Retail dataset from the source above.
 2. Save the original ZIP archive in this `data/` directory.
 3. Ensure the archive is named `online+retail.zip`.
-4. Run the Jupyter notebook from the `notebooks/` directory.
+4. Run the Jupyter notebook from the `notebook/` directory.
 
 The notebook reads `Online Retail.xlsx` directly from the ZIP archive. Manual extraction is not required.
 
