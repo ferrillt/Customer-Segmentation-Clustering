@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project examines customer purchasing behavior using transaction data from the UCI Online Retail dataset. The objective is to identify groups of customers with similar purchasing characteristics using Recency, Frequency, and Monetary (RFM) analysis and K-Means clustering.
+This project examines customer purchasing behavior using transaction data from the UCI Online Retail dataset (Chen, 2015). The objective is to identify groups of customers with similar purchasing characteristics using Recency, Frequency, and Monetary (RFM) analysis and K-Means clustering.
 
 Customer segmentation can help businesses better understand purchasing patterns and identify opportunities for targeted marketing, customer retention, and customer engagement.
 
@@ -177,4 +177,4 @@ This project is part of my [Data Science Portfolio](https://github.com/ferrillt/
 
 ## References
 
-UCI Machine Learning Repository. (n.d.). *Online Retail* [Data set]. https://archive.ics.uci.edu/dataset/352/online+retail
+Chen, D. (2015). *Online retail* [Data set]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33
