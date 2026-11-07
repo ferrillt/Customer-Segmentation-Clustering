@@ -14,11 +14,13 @@ Can customer purchasing patterns be used to identify meaningful customer segment
 
 ## Dataset
 
-**Source:** [UCI Machine Learning Repository – Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail)
+**Source:** [Online Retail — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 
-The dataset contains 541,909 transaction records from a UK-based online retail business between December 2010 and December 2011.
+The Online Retail dataset (Chen, 2015) contains 541,909 transaction records from a UK-based online retailer, covering December 1, 2010, through December 9, 2011.
 
 The original dataset includes transaction identifiers, product information, quantities, prices, transaction dates, customer identifiers, and customer countries.
+
+**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 The original dataset is not included in this repository. Instructions for obtaining and preparing the data are available in [data/README.md](data/README.md).
 
